@@ -1,0 +1,47 @@
+BACKLOG 
+
+1 - Gestão de Chamados: 
+
+- Permitir que o colaborador registre um chamado com descrição e categoria. 
+
+- Colaborador acompanha o status do chamado. 
+
+- Listar chamados pendentes para os técnicos. 
+
+- Técnico atualiza o status do chamado. 
+
+- Registrar soluções aplicadas pelos técnicos. 
+
+ 
+
+2 - Inteligência Artificial: 
+
+- Analisar e classificar chamados automaticamente. 
+
+- Sugerir solução baseada em chamados anteriores. 
+
+- Avaliar a prioridade do chamado conforme a urgência. 
+
+- Encaminhar chamados para técnicos do departamento correto. 
+
+- Aprender com soluções registradas para melhorar respostas futuras. 
+
+ 
+
+3 - Gerenciamento de Usuários (Administrador): 
+
+- Cadastrar colaboradores e técnicos. 
+
+- Definir especialidades dos técnicos para triagem. 
+
+- Notificações para os técnicos sobre novos chamados. 
+
+ 
+
+4 - Relatórios e Monitoramento (Gestor): 
+
+- Gerar relatórios de chamados resolvidos. 
+
+- Exibir tempo médio de resolução dos chamados. 
+
+- Avaliar a eficácia das sugestões da IA.
